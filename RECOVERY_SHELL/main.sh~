@@ -1,7 +1,0 @@
-echo
-mkdir /home/hok/Software
-echo -e '\n\n\n\n ~~ OpenCV times ~~\n\n'
-mkdir
-bash opencv3.2.0_install.sh
-rm
-
