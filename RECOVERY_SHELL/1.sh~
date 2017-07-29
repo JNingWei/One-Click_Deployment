@@ -1,0 +1,2 @@
+echo -e '\n Download the required installation files'
+python ./sub_shells/down_files.py

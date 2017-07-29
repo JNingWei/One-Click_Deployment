@@ -1,0 +1,5 @@
+echo -e '\n\n\n\n ~~ Necessary packages times ~~\n\n'
+
+sudo apt-get install nautilus-open-terminal
+
+echo 'Necessary packages ready to be used'
