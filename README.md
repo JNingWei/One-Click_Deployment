@@ -2,7 +2,7 @@
 
 &emsp;&emsp;因为上传文件大小限制的缘故，这里只上传了代码部分，没有附带一键配置时所执行的安装包文件。后面我会将安装包资源上传网络，并在一键下载安装包代码中，替换上真正的下载地址。
 
-&emsp;&emsp;我自己配置的环境是： cuda8.0、anaconda2、cudnn5.1、pycharm17.1、tensorflow-gpu、opencv3.2.0。
+&emsp;&emsp;我自己配置的环境是： cuda8.0、anaconda3、cudnn5.1、pycharm17.1、tensorflow-gpu、opencv3.3.1。
 
 ---
 
