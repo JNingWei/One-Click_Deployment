@@ -1,3 +1,3 @@
 
 echo 'Decompress SogouPinyin'
-sudo dpkg -i ../../Sogou/sogoupinyin_1.2.0.0056_amd64.deb
+sudo dpkg -i ../../Sogou/sogoupinyin_2.1.0.0086_amd64.deb
