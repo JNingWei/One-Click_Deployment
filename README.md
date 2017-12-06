@@ -36,8 +36,8 @@ Because of the file size limit, only the code portion was uploaded here, without
 ## Requirements
 
    * Ubuntu
-
    * Bash (Ubuntu comes with)
+
 
 ## License
 
