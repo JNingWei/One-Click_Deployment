@@ -1,9 +1,45 @@
-&emsp;&emsp;因为偶尔会遇到解决不了的问题，不得不需要刷系统。刷完Ubuntu系统后，重新配置日常开发所需的环境太麻烦。在痛定思痛后，我写了一系列 **bash脚本** ，来 **一键部署** 所需的基本开发环境。
+# One-click deployment　![Travis](https://img.shields.io/travis/rust-lang/rust.svg) ![Language](https://img.shields.io/badge/language-Bash-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/Ubuntu下的-一键部署工具-pink.svg)
 
-&emsp;&emsp;因为上传文件大小限制的缘故，这里只上传了代码部分，没有附带一键配置时所执行的安装包文件。后面我会将安装包资源上传网络，并在一键下载安装包代码中，替换上真正的下载地址。
+__Update 29-07-2017__:   __It's a collection of One-click Deployment Scripts written by myself.__
 
-&emsp;&emsp;我自己配置的环境是： cuda8.0、anaconda3、cudnn5.1、pycharm17.1、tensorflow-gpu、opencv3.3.1。
+MIT license. Contributions welcome.
 
----
+## Introduction
 
----
+	Image-Filter        root directory
+	     |
+	     +-- RECOVERY_SHELL     scripts achieve the function
+	     |
+	     +-- README.md          manual of project
+	     |
+	     +-- LICENSE.md         license of project
+
+There are 6 One-click Deployment Scripts can choose:
+
+- [x] 1. Cuda8
+- [x] 2. Anaconda3
+- [x] 3. Cudnn
+- [x] 4. Pycharm
+- [x] 5. Tensorflow-gpu
+- [x] 6. OpenCV3
+
+Choose whatever you need, and run the corresponding bash to deploy them.
+
+**Note:**<br>
+Because of the file size limit, only the code portion was uploaded here, without the corresponding packages. I will laterly upload the installation package resources to network.<br>
+因为上传文件大小限制的缘故，这里只上传了代码部分，没有附带一键配置时所执行的安装包文件。后面我会将安装包资源上传网络，并在一键下载安装包代码中，替换上真正的下载地址。
+
+## Usage 
+
+1. Use ```cd RECOVERY_SHELL/``` to find scripts.
+2. Run the corresponding bash to deploy environment you need.
+
+## Requirements
+
+   * Ubuntu
+
+   * Bash (Ubuntu comes with)
+
+## License
+
+[MIT](https://github.com/JNingWei/One-click_deployment/blob/master/LICENSE.md)
