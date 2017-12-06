@@ -26,8 +26,7 @@ There are 6 One-click Deployment Scripts can choose:
 Choose whatever you need, and run the corresponding bash to deploy them.
 
 **Note:**<br>
-Because of the file size limit, only the code portion was uploaded here, without the corresponding packages. I will laterly upload the installation package resources to network.<br>
-因为上传文件大小限制的缘故，这里只上传了代码部分，没有附带一键配置时所执行的安装包文件。后面我会将安装包资源上传网络，并在一键下载安装包代码中，替换上真正的下载地址。
+Because of the file size limit, only the code portion was uploaded here, without the corresponding packages. I will laterly upload the installation package resources to network.
 
 ## Usage 
 
