@@ -1,4 +1,4 @@
-# One-click deployment　![Travis](https://img.shields.io/travis/rust-lang/rust.svg) ![Language](https://img.shields.io/badge/language-Bash-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/Ubuntu下的-一键部署工具-pink.svg)
+# One-click deployment　![Travis](https://img.shields.io/travis/rust-lang/rust/master.svg) ![Language](https://img.shields.io/badge/language-Bash-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/Ubuntu下的-一键部署工具-pink.svg)
 
 __Update 29-07-2017__:   __It's a collection of One-click Deployment Scripts written by myself.__
 
