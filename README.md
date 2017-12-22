@@ -8,7 +8,7 @@ MIT license. Contributions welcome.
 
 	One-Click-Deployment        root directory
 	     |
-	     +-- RECOVERY_SHELL     scripts achieve the function
+	     +-- RECOVERY_SHELL/    scripts achieve the function
 	     |
 	     +-- README.md          manual of project
 	     |
