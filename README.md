@@ -6,13 +6,13 @@ MIT license. Contributions welcome.
 
 ## Introduction
 
-	One-Click-Deployment        root directory
+	One-Click-Deployment/      root directory
 	     |
-	     +-- RECOVERY_SHELL/    scripts achieve the function
+	     +-- RECOVERY_SHELL/      scripts achieve the function
 	     |
-	     +-- README.md          manual of project
+	     +-- README.md            manual of project
 	     |
-	     +-- LICENSE.md         license of project
+	     +-- LICENSE.md           license of project
 
 There are 6 One-click Deployment Scripts can choose:
 
