@@ -1,12 +1,12 @@
-# One-click deployment　![Travis](https://img.shields.io/travis/rust-lang/rust/master.svg) ![Language](https://img.shields.io/badge/language-Bash-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/Ubuntu下的-一键部署工具-pink.svg)
+# One Click Deployment　![Travis](https://img.shields.io/travis/rust-lang/rust/master.svg) ![Language](https://img.shields.io/badge/language-Bash-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/Ubuntu下的-一键部署工具-pink.svg)
 
-__Update 29-07-2017__:   __It's a collection of One-click Deployment Scripts written by myself.__
+__Update 29-07-2017__:   __It's a collection of One-Click-Deployment Scripts written by myself.__
 
 MIT license. Contributions welcome.
 
 ## Introduction
 
-	Image-Filter        root directory
+	One-Click-Deployment        root directory
 	     |
 	     +-- RECOVERY_SHELL     scripts achieve the function
 	     |
