@@ -4,7 +4,7 @@ __Update 29-07-2017__:   __It's a collection of One-Click-Deployment Scripts wri
 
 MIT license. Contributions welcome.
 
-## Introduction
+## Overview
 
 	One-Click-Deployment/      root directory
 	     |
