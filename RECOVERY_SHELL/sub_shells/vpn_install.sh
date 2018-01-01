@@ -6,7 +6,7 @@ sleep 3
 # ssh-keygen
 # cat ~/.ssh/id_rsa.pub
 
-ssh root@45.77.130.85
+ssh root@your_vpn
 
 echo 'Install VPN'
 sleep 3
@@ -22,7 +22,7 @@ echo 'Restart shadowsocks'
 sleep 3
 reboot
 
-ssh root@45.77.130.85
+ssh root@your_vpn
 nohup ssserver -c /etc/shadowsocks.json &
 
 
